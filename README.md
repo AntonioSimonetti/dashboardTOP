@@ -2,7 +2,7 @@ Project: Admin Dashboard
 
 Dashboard created for The Odin Project curriculum.
 
-LIVE VERSION: 
+LIVE VERSION: https://antoniosimonetti.github.io/dashboardTOP/
 
 This is my 5th project.
 

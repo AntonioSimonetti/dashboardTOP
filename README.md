@@ -1,4 +1,4 @@
-**Project: Admin Dashboard
+**Project: Admin Dashboard**
 
 Dashboard created for The Odin Project curriculum.
 
@@ -6,6 +6,6 @@ Dashboard created for The Odin Project curriculum.
 
 This is my 5th project.
 
-**PROJECT IDEA
+**PROJECT IDEA**
 
 The idea was to create an admin dashboard. The goal is to become confident with CSS GRID.
